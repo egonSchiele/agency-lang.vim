@@ -1,2 +1,2 @@
 " Agency language filetype detection
-autocmd BufRead,BufNewFile *.agency setfiletype agency
+autocmd BufRead,BufNewFile *.agency set filetype=agency
